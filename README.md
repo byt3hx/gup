@@ -1,5 +1,8 @@
 # Description
-GUP is a tool to create wrodlists from parameters and use those parameters for brute forcing.
+GUP is a tool to create wrodlists from the urls.
+
+# Purpose
+The purpose of this tool is to create wordlists for brute forcing parameters.
 
 # Install
 ```
